@@ -38,13 +38,18 @@ To run this project locally:
    git clone https://github.com/vangadaakash/WeatherApp.git
    cd WeatherApp
 2. Get your API key:
+
      .Sign up at OpenWeatherMap
-     .Generate your API key
- 3. Add your API key:
+
+      .Generate your API key
+ 4. Add your API key:
+
     .Open the JavaScript file (e.g., script.js)
+
     .Replace "YOUR_API_KEY_HERE" with your actual API key
+    
     .const apiKey = "YOUR_API_KEY_HERE";
-4. Open in browser: 
+6. Open in browser: 
      .Simply open index.html in your browser
      .Allow location access to see your local weather
 

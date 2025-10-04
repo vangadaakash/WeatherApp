@@ -49,13 +49,17 @@ To run this project locally:
     .Replace "YOUR_API_KEY_HERE" with your actual API key
     
     .const apiKey = "YOUR_API_KEY_HERE";
-6. Open in browser: 
+    
+6. Open in browser:
+
      .Simply open index.html in your browser
+
      .Allow location access to see your local weather
 
 🧑‍💻 Author
 
 Akash Vangada
+
 GitHub: @vangadaakash
 
 
